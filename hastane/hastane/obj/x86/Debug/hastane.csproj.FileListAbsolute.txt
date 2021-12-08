@@ -1,0 +1,18 @@
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\bin\Debug\hastane.exe
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\bin\Debug\hastane.pdb
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.Form1.resources
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.hastaekle.resources
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.Properties.Resources.resources
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.csproj.GenerateResource.Cache
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.exe
+c:\users\özgürdogan\documents\visual studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.pdb
+C:\Users\özgürdogan\Documents\Visual Studio 2010\Projects\hastane\hastane\obj\x86\Debug\hastane.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\bin\Debug\hastane.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\bin\Debug\hastane.pdb
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.Form1.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.hastaekle.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.csproj.GenerateResource.Cache
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.exe
+C:\Users\Batuhan\Desktop\Documents\Visual Studio 2015\Windows Form\hastane\hastane\obj\x86\Debug\hastane.pdb
